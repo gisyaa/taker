@@ -1337,3 +1337,13 @@
 3/8/2025 | 4:13:20 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 3/8/2025 | 4:13:20 AM | INFO | Trying to activate mining on-chain for wallet: 0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc 
 3/8/2025 | 4:13:25 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x7fae7de7f39d59a864b64196907a20d86dc9cf1394fcc6b12684819c7d5acf58 
+3/8/2025 | 8:13:51 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/8/2025 | 8:13:51 AM | INFO | Start process for wallet 0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc 
+3/8/2025 | 8:14:51 AM | ERROR | Failed to get nonce: Request failed with status code 502
+3/8/2025 | 8:14:51 AM | WARN | Retrying... (2 attempts left) 
+3/8/2025 | 8:14:55 AM | ERROR | Failed to get nonce: Request failed with status code 502
+3/8/2025 | 8:14:55 AM | WARN | Retrying... (1 attempts left) 
+3/8/2025 | 8:14:58 AM | ERROR | Failed to get nonce: Request failed with status code 502
+3/8/2025 | 8:14:58 AM | WARN | Retrying... (0 attempts left) 
+3/8/2025 | 8:16:02 AM | ERROR | Failed to get nonce after retries: Request failed with status code 502
+3/8/2025 | 8:16:02 AM | ERROR | Failed to retrieve nonce for wallet: 0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc 
