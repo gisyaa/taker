@@ -4998,3 +4998,16 @@
 5/13/2025 | 1:13:07 AM | INFO | Trying to check user miner status... 
 5/13/2025 | 1:13:09 AM | INFO | Last mining time: 5/12/2025, 4:19:42 AM
 5/13/2025 | 1:13:09 AM | WARN | Mining already started, next mining time is: 5/13/2025, 4:19:42 AM
+5/13/2025 | 4:18:45 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/13/2025 | 4:18:46 AM | INFO | Start process for wallet 0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc 
+5/13/2025 | 4:18:46 AM | INFO | Trying To Login for wallet: 0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc 
+5/13/2025 | 4:18:47 AM | INFO | Login successful... 
+5/13/2025 | 4:18:47 AM | INFO | Trying to check user info... 
+5/13/2025 | 4:18:48 AM | INFO | User ID: 103176700 | Twitter: @vgisyaa | Total Points: 1872000 
+5/13/2025 | 4:18:48 AM | INFO | Trying to check user miner status... 
+5/13/2025 | 4:18:51 AM | INFO | Last mining time: 5/11/2025, 1:16:33 AM
+5/13/2025 | 4:18:51 AM | INFO | Trying to start Mining for wallet: 0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc 
+5/13/2025 | 4:18:53 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/13/2025 | 4:18:53 AM | INFO | Trying to activate mining on-chain for wallet: 0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc 
+5/13/2025 | 4:18:58 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x54","from":"0x3a64737ac4e9807144c903fdbdb239475d4ea6fc","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
+5/13/2025 | 4:18:58 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
