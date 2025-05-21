@@ -5490,3 +5490,15 @@
 5/21/2025 | 12:30:25 PM | INFO | Trying to activate mining on-chain for wallet: 0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc 
 5/21/2025 | 12:30:30 PM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86e8204655b83030d40832191c082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a0c5d5a94132cc751278bb4257b0db178a31eeb4537de597314945dae8c5eb74c0a043cc64cfb2820047b01aae88daa4825ea500f069f16cead281aed3fb6518b4c8","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
 5/21/2025 | 12:30:30 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/21/2025 | 4:18:59 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/21/2025 | 4:18:59 PM | INFO | Start process for wallet 0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc 
+5/21/2025 | 4:19:00 PM | INFO | Trying To Login for wallet: 0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc 
+5/21/2025 | 4:19:01 PM | INFO | Login successful... 
+5/21/2025 | 4:19:01 PM | INFO | Trying to check user info... 
+5/21/2025 | 4:19:02 PM | INFO | User ID: 103176700 | Twitter: @vgisyaa | Total Points: 2064000 
+5/21/2025 | 4:19:02 PM | INFO | Trying to check user miner status... 
+5/21/2025 | 4:19:03 PM | INFO | Last mining time: 5/20/2025, 8:21:24 AM
+5/21/2025 | 4:19:03 PM | INFO | Trying to start Mining for wallet: 0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc 
+5/21/2025 | 4:19:04 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/21/2025 | 4:19:04 PM | INFO | Trying to activate mining on-chain for wallet: 0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc 
+5/21/2025 | 4:19:17 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x42644391d2c6a0b9b8f78acea143fb3c00345487916e674e7aa20b9767ce07d1 
